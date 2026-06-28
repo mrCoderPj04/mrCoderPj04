@@ -9,7 +9,7 @@ Hi im Rajkamal Singh Coder since 6year also
 ```Ethical hacker```
 ```Application Developer```
 ```MERN STACK Developer ```
-in at the age of 21 :)
+start coding carier at the age of 17 :)
 
 ## 🛠 Skills
 - HTML, 
