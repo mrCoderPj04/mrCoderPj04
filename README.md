@@ -5,6 +5,9 @@
   <a href="https://github.com/mrCoderPj04">
     <img src="https://avatars.githubusercontent.com/u/110047869?v=4" width="150" height="150" style="border-radius: 50%; box-shadow: 0 0 25px #00f0ff, 0 0 50px #7928ca; border: 4px solid #00f0ff;" alt="MrCoder Avatar" />
   </a>
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=RAJKAMAL;APIs+%7C+gRPC+%7C+NEGI+%7C+AI_ENGINEER;FULL _STACK_DEVELOPER+Optimization+Guru;Go+%7C+PJSOFONIC+%7C+CODING+%7C+TECH;Microservices+%26+Event-Driven+Architecture" alt="SVG" />
+</p>
   <!-- Animated Header Typing Effect -->
  <p align="center">
   <a href="https://github.com/mrCoderPj04">
@@ -288,10 +291,10 @@
   <a href="https://github.com/mrCoderPj04" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-mrCoderPj04-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/mrCoderPj04" target="_blank">
+  <a href="https://linkedin.com/in/rajkamal-singh86932b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-mrCoderPj04-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/mrCoderPj04" target="_blank">
+  <a href="https://instagram.com/mr_Coder_04" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-mrCoderPj04-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <br/><br/>
