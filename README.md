@@ -48,7 +48,7 @@
   </p>
 
   <p align="center">
-    📍 <b>Gopeshwar, Chamoli, Uttarakhand, India 🇮🇳</b> &nbsp;|&nbsp; ✉️ <b>contact@pjsofonic.com</b>
+    📍 <b>Gopeshwar, Chamoli, Uttarakhand, India 🇮🇳</b> &nbsp;|&nbsp; ✉️ <b>mrcoder04@outlook.com</b>
   </p>
 
   <!-- Cycle: Learn => Build => Deploy -->
