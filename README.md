@@ -1,29 +1,27 @@
 <div align="center">
 
   <!-- Profile Avatar with Glowing Border -->
+  
   <a href="https://github.com/mrCoderPj04">
     <img src="https://avatars.githubusercontent.com/u/110047869?v=4" width="150" height="150" style="border-radius: 50%; box-shadow: 0 0 25px #00f0ff, 0 0 50px #7928ca; border: 4px solid #00f0ff;" alt="MrCoder Avatar" />
   </a>
-
-  <br/> <br/>
-
   <!-- Animated Header Typing Effect -->
+ <p align="center">
   <a href="https://github.com/mrCoderPj04">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F0FF&center=true&vcenter=true&width=750&height=70&lines=👋+Hello,+I'm+MrCoder!;🚀+Full-Stack+MERN+%26+Software+Engineer;⚡+6%2B+Years+of+Coding+Experience;🏔️+Building+from+Chamoli,+Uttarakhand" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F0FF&center=true&vcenter=true&width=800&height=90&lines=👋+Hello,+I'm+MrCoder!;🚀+Full-Stack+MERN+%26+Software+Engineer;⚡+6%2B+Years+of+Coding+Experience;🏔️+Building+from+Chamoli,+Uttarakhand" alt="Typing" />
   </a>
-
-  <br/>
+</p>
 
   # ⚙️ Rajkamal Singh — Senior Ai Engineer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Distributed+Systems+Architect;APIs+%7C+gRPC+%7C+GraphQL+%7C+WebSockets;Database+Optimization+Guru;Go+%7C+Rust+%7C+Java+%7C+Python;Microservices+%26+Event-Driven+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Mrcoder;APIs+%7C+gRPC+%7C+GraphQL+%7C+WebSockets;Database+Optimization+Guru;Go+%7C+Rust+%7C+Java+%7C+Python;Microservices+%26+Event-Driven+Architecture" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/rajkamal-singh-8693aa2b3"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://your-portfolio.dev"><img src="https://img.shields.io/badge/API_Docs-10B981?style=for-the-badge&logo=swagger&logoColor=white" /></a>
-  <a href="mailto:alex@backend.dev"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mrcoder04@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -31,22 +29,7 @@
 </p>
 
 
-  <!-- Social Links Badges -->
-  <p align="center">
-    <a href="https://github.com/mrCoderPj04" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-    <a href="https://linkedin.com/in/mrCoderPj04" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://instagram.com/mrCoderPj04" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-    </a>
-    <a href="https://komarev.com/ghpvc/?username=mrCoderPj04&color=00F0FF&style=for-the-badge&label=PROFILE+VIEWS">
-      <img src="https://komarev.com/ghpvc/?username=mrCoderPj04&color=00f0ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Views"/>
-    </a>
-  </p>
-
+ 
   <p align="center">
     📍 <b>Gopeshwar, Chamoli, Uttarakhand, India 🇮🇳</b> &nbsp;|&nbsp; ✉️ <b>mrcoder04@outlook.com</b>
   </p>
