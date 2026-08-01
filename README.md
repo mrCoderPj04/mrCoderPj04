@@ -74,82 +74,6 @@
 </blockquote>
 
 ---
-
-## 🛠️ Programming Skills & Proficiency Levels
-
-<th colspan="2" align="center">
-      <h3><a href="/README.md#-plugins">🧩 Customizable with 47 plugins and 335 options!</a></h3>
-    </th>
-  </tr>
-  <tr>
-    <th><a href="source/plugins/isocalendar/README.md">📅 Isometric commit calendar</a></th>
-    <th><a href="source/plugins/languages/README.md">🈷️ Languages activity</a></th>
-  </tr>
-  <tr>
-        <td  align="center">
-        <details open><summary>Full year calendar</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
-        <details><summary>Half year calendar</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-        <td  align="center">
-        <details open><summary>Indepth analysis (clone and analyze repositories)</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.indepth.svg" alt=""></img></details>
-        <details open><summary>Recently used (analyze recent activity events)</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.recent.svg" alt=""></img></details>
-        <details><summary>Default algorithm</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.svg" alt=""></img></details>
-        <details><summary>Default algorithm (with details)</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.details.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-  </tr>
-  <tr>
-    <th><a href="source/plugins/stargazers/README.md">✨ Stargazers</a></th>
-    <th><a href="source/plugins/lines/README.md">👨‍💻 Lines of code changed</a></th>
-  </tr>
-  <tr>
-        <td  align="center">
-        <details open><summary>Classic charts</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stargazers.svg" alt=""></img></details>
-        <details><summary>Graph charts</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stargazers.graph.svg" alt=""></img></details>
-        <details open><summary>Worldmap</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stargazers.worldmap.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-        <td  align="center">
-        <details open><summary>Repositories and diff history</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.lines.history.svg" alt=""></img></details>
-        <details><summary>Compact display in base plugin</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.lines.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-  </tr>
-  <tr>
-    <th><a href="source/plugins/topics/README.md">📌 Starred topics</a></th>
-    <th><a href="source/plugins/stars/README.md">🌟 Recently starred repositories</a></th>
-  </tr>
-  <tr>
-        <td  align="center">
-        <details open><summary>With icons</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.topics.icons.svg" alt=""></img></details>
-        <details open><summary>With labels</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.topics.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-        <td  align="center">
-        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stars.svg" alt=""></img>
-        <img width="900" height="1" alt="">
-      </td>
-  </tr>
-  <tr>
-    <th><a href="source/plugins/licenses/README.md">📜 Repository licenses</a></th>
-    <th><a href="source/plugins/habits/README.md">💡 Coding habits and activity</a></th>
-  </tr>
-  <tr>
-        <td  align="center">
-        <details open><summary>Permissions, limitations and conditions</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.licenses.svg" alt=""></img></details>
-        <details open><summary>Licenses overview</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.licenses.ratio.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-        <td  align="center">
-        <details open><summary>Recent activity charts</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.habits.charts.svg" alt=""></img></details>
-        <details open><summary>Mildly interesting facts</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.habits.facts.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-  </tr>
-
-
-
 ## 👨‍💻 About & Highlights
 
 <table align="center" width="100%">
@@ -173,6 +97,121 @@
 </table>
 
 ---
+<h2 align="center">🚀 Programming Languages & Tools</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,py,rust,java,cpp,html,css,react,nodejs,express,mongodb,mysql,git,docker,linux&perline=8" />
+  </a>
+</p>
+
+<!-- LIQUID STYLE PROGRESS BARS (No animation, No percentage numbers) -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="left" width="150">
+        <img src="https://skillicons.dev/icons?i=js" width="24" height="24"> JavaScript
+      </td>
+      <td width="450">
+        <div style="background: #1e1e2e; border-radius: 30px; padding: 2px; box-shadow: inset 0 2px 6px rgba(0,0,0,0.6);">
+          <div style="background: linear-gradient(90deg, #f7df1e, #f9d423); height: 28px; border-radius: 30px; width: 90%; box-shadow: 0 0 18px rgba(247, 223, 30, 0.35);"></div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td align="left">
+        <img src="https://skillicons.dev/icons?i=ts" width="24" height="24"> TypeScript
+      </td>
+      <td>
+        <div style="background: #1e1e2e; border-radius: 30px; padding: 2px; box-shadow: inset 0 2px 6px rgba(0,0,0,0.6);">
+          <div style="background: linear-gradient(90deg, #3178c6, #00d2ff); height: 28px; border-radius: 30px; width: 85%; box-shadow: 0 0 18px rgba(49, 120, 198, 0.35);"></div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td align="left">
+        <img src="https://skillicons.dev/icons?i=py" width="24" height="24"> Python
+      </td>
+      <td>
+        <div style="background: #1e1e2e; border-radius: 30px; padding: 2px; box-shadow: inset 0 2px 6px rgba(0,0,0,0.6);">
+          <div style="background: linear-gradient(90deg, #3776ab, #61dafb); height: 28px; border-radius: 30px; width: 75%; box-shadow: 0 0 18px rgba(55, 118, 171, 0.35);"></div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td align="left">
+        <img src="https://skillicons.dev/icons?i=rust" width="24" height="24"> Rust
+      </td>
+      <td>
+        <div style="background: #1e1e2e; border-radius: 30px; padding: 2px; box-shadow: inset 0 2px 6px rgba(0,0,0,0.6);">
+          <div style="background: linear-gradient(90deg, #dea584, #f5a623); height: 28px; border-radius: 30px; width: 70%; box-shadow: 0 0 18px rgba(222, 165, 132, 0.35);"></div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td align="left">
+        <img src="https://skillicons.dev/icons?i=java" width="24" height="24"> Java
+      </td>
+      <td>
+        <div style="background: #1e1e2e; border-radius: 30px; padding: 2px; box-shadow: inset 0 2px 6px rgba(0,0,0,0.6);">
+          <div style="background: linear-gradient(90deg, #b07219, #f89820); height: 28px; border-radius: 30px; width: 65%; box-shadow: 0 0 18px rgba(176, 114, 25, 0.35);"></div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td align="left">
+        <img src="https://skillicons.dev/icons?i=cpp" width="24" height="24"> C++
+      </td>
+      <td>
+        <div style="background: #1e1e2e; border-radius: 30px; padding: 2px; box-shadow: inset 0 2px 6px rgba(0,0,0,0.6);">
+          <div style="background: linear-gradient(90deg, #f34b7d, #ff6b6b); height: 28px; border-radius: 30px; width: 80%; box-shadow: 0 0 18px rgba(243, 75, 125, 0.35);"></div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td align="left">
+        <img src="https://skillicons.dev/icons?i=html" width="24" height="24"> HTML / CSS
+      </td>
+      <td>
+        <div style="background: #1e1e2e; border-radius: 30px; padding: 2px; box-shadow: inset 0 2px 6px rgba(0,0,0,0.6);">
+          <div style="background: linear-gradient(90deg, #e34c26, #264de4); height: 28px; border-radius: 30px; width: 95%; box-shadow: 0 0 18px rgba(227, 76, 38, 0.35);"></div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td align="left">
+        <img src="https://skillicons.dev/icons?i=react" width="24" height="24"> React
+      </td>
+      <td>
+        <div style="background: #1e1e2e; border-radius: 30px; padding: 2px; box-shadow: inset 0 2px 6px rgba(0,0,0,0.6);">
+          <div style="background: linear-gradient(90deg, #61dafb, #00c8ff); height: 28px; border-radius: 30px; width: 88%; box-shadow: 0 0 18px rgba(97, 218, 251, 0.35);"></div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td align="left">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="24" height="24"> Node.js
+      </td>
+      <td>
+        <div style="background: #1e1e2e; border-radius: 30px; padding: 2px; box-shadow: inset 0 2px 6px rgba(0,0,0,0.6);">
+          <div style="background: linear-gradient(90deg, #68a063, #8cc084); height: 28px; border-radius: 30px; width: 82%; box-shadow: 0 0 18px rgba(104, 160, 99, 0.35);"></div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td align="left">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="24" height="24"> MongoDB
+      </td>
+      <td>
+        <div style="background: #1e1e2e; border-radius: 30px; padding: 2px; box-shadow: inset 0 2px 6px rgba(0,0,0,0.6);">
+          <div style="background: linear-gradient(90deg, #47a248, #00ed64); height: 28px; border-radius: 30px; width: 78%; box-shadow: 0 0 18px rgba(71, 162, 72, 0.35);"></div>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
 
 ## 🚀 Key Repositories & Featured Projects
 
