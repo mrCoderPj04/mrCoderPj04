@@ -282,9 +282,14 @@
 ## 🎨 GitHub Contribution Grid
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mrCoderPj04/mrCoderPj04/output/github-contribution-grid-snake.svg" alt="Snake Contribution Graph" width="100%" />
-</div>
 
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/MrCoderPj04/MrCoderPj04/output/github-contribution-grid-snake.svg)
+  
+  [![Your github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MrCoderPj04&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrCoderPj04&show_icons=true&theme=onedark)
+ 
+</div>
 ---
 
 <div align="center">
