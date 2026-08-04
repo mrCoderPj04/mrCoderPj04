@@ -5,15 +5,8 @@
   <a href="https://github.com/mrCoderPj04">
     <img src="https://avatars.githubusercontent.com/u/110047869?v=4" width="150" height="150" style="border-radius: 50%; box-shadow: 0 0 25px #00f0ff, 0 0 50px #7928ca; border: 4px solid #00f0ff;" alt="MrCoder Avatar" />
   </a>
-  <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=RAJKAMAL;APIs+%7C+gRPC+%7C+NEGI+%7C+AI_ENGINEER;FULL _STACK_DEVELOPER+Optimization+Guru;Go+%7C+PJSOFONIC+%7C+CODING+%7C+TECH;Microservices+%26+Event-Driven+Architecture" alt="SVG" />
-</p>
+  
   <!-- Animated Header Typing Effect -->
- <p align="center">
-  <a href="https://github.com/mrCoderPj04">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F0FF&center=true&vcenter=true&width=800&height=90&lines=👋+Hello,+I'm+MrCoder!;🚀+Full-Stack+MERN+%26+Software+Engineer;⚡+6%2B+Years+of+Coding+Experience;🏔️+Building+from+Chamoli,+Uttarakhand" alt="Typing" />
-  </a>
-</p>
 
   # ⚙️ Rajkamal Singh — Senior Ai Engineer
 
