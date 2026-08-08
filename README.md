@@ -296,5 +296,6 @@
     <img src="https://img.shields.io/badge/Instagram-mrCoderPj04-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <br/><br/>
-  <sub>Designed with ❤️ for <b>MrCoder</b></sub>
+  <sub>Designed with ❤️ for <b href=" https://rajkamal-singh.netlify.app
+                             ">MrCoder</b></sub>
 </div>
